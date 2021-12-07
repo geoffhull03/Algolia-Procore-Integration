@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'figaro'
-gem 'react_on_rails'
+gem 'react-rails'
 
 
 group :development, :test do
